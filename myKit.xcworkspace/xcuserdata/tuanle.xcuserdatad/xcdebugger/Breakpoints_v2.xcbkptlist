@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Example-swift/Example-swift/AdsViewController.swift"
+            timestampString = "488735862.149151"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AdsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Example_swift.AdsViewController.bannerView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIView&gt;"
+                  moduleName = "Example-swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tuanle/XcodeProjects/Example-myKit/Example-swift/Example-swift/AdsViewController.swift"
+                  timestampString = "488735336.994223"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Example_swift.AdsViewController.bannerView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIView&gt;"
+                  moduleName = "Example-swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tuanle/XcodeProjects/Example-myKit/Example-swift/Example-swift/AdsViewController.swift"
+                  timestampString = "488735336.995872"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Example_swift.AdsViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Example_swift.AdsViewController"
+                  moduleName = "Example-swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tuanle/XcodeProjects/Example-myKit/Example-swift/Example-swift/AdsViewController.swift"
+                  timestampString = "488735336.996023"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Example_swift.AdsViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Example_swift.AdsViewController&gt;"
+                  moduleName = "Example-swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tuanle/XcodeProjects/Example-myKit/Example-swift/Example-swift/AdsViewController.swift"
+                  timestampString = "488735336.996134"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
